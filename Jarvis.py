@@ -460,7 +460,7 @@ def TaskExe():
          
         elif 'my location' in query:
             Speak("Ok Sir, Wait A Second!")
-            webbrowser.open("https://www.google.com/maps/place/Sonam+Pushpanjali+Co-op+Hsg+Society/@19.2945074,72.8620256,66m/data=!3m1!1e3!4m15!1m8!3m7!1s0x3be7b024b4bdad7d:0xe6ca8af64f31eb81!2sMira+Bhayandar,+Maharashtra+401105!3b1!8m2!3d19.3053477!4d72.8663173!16s%2Fg%2F1hhlsgv80!3m5!1s0x3be7b03712d54817:0x42ba84c17bc9b5d6!8m2!3d19.2943128!4d72.861884!16s%2Fg%2F11ckvkys6h?entry=ttu")
+            webbrowser.open("Add your address here from google map")
             
         elif 'dictionary' in query:
             Dict()
